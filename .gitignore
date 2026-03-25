@@ -1,0 +1,5 @@
+*.pth
+*.csv
+lightning_logs/
+.DS_Store
+.env
