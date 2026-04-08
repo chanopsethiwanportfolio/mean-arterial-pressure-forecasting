@@ -21,4 +21,4 @@ For the full analysis of the methodology, clinical logic, and comparative perfor
 ## **Data Source**
 Derived from the **MIMIC-IV Clinical Database Demo (v2.2)**, available on [Kaggle](https://www.kaggle.com/datasets/montassarba/mimic-iv-clinical-database-demo-2-2).
 
-> For full background, methodology, and evaluation details, please refer to the report final-map-prediction-report.html which is the jupyter notebook in HTML format.
+> For full background, methodology, and evaluation details, please refer to the report final-map-prediction-report-no-code.html.
